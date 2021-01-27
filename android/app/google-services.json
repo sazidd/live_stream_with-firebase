@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56964316935",
+    "project_id": "livestreaming-8950c",
+    "storage_bucket": "livestreaming-8950c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56964316935:android:d62891ee3eca2156244fa2",
+        "android_client_info": {
+          "package_name": "com.example.live_stream_with_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56964316935-3684hdbj15q9l1lmbsus7tl33g12b2v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe5WnwHFgvCfeeYQ37dyT0wQ7YxT2Q7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56964316935-3684hdbj15q9l1lmbsus7tl33g12b2v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
